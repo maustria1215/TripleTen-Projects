@@ -3,7 +3,7 @@ Portfolio of completed projects I created while attending the Business Intellige
 
 | Project Title | Description |
 | ----- | ----- |
-| [Vacation Rental Market NYC] | This project was created to help a client analyze the vacation rental market in the Manhattan borough of New York City. The client was interested in investing in several properties but would like some guidance on what types of properties they should be targeting. My role was to analyze data collected on current Airbnb listings to identify useful insights. |
+| [Vacation Rental Market NYC](https://github.com/maustria1215/TripleTen-Projects/tree/23080c9de40a471e4b6395be3fbf4e471fe98ad2/Vacation%20Rental%20Market%20NYC)| This project was created to help a client analyze the vacation rental market in the Manhattan borough of New York City. The client was interested in investing in several properties but would like some guidance on what types of properties they should be targeting. My role was to analyze data collected on current Airbnb listings to identify useful insights. |
 | [Zuber]| The purpose of this project was to use SQL to find patterns in the available information from competitors to understand passenger preferences and the impact of external factors on rides. |
 | [eCommerce Cohorts] | In this project, I analyze raw transaction logs to turn event logs into business metrics by creating a conversion funnel, preparing the data for cohort analysis and calculating retention rates. |
 | [Saving Super Store]| The purpose of this project was to review superstore’s operations and increase its profitability to avoid bankruptcy. |
