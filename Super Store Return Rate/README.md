@@ -3,6 +3,8 @@ What is causing the high number of returned orders at the Superstore? In this pr
 
 Tableau Link: https://public.tableau.com/views/SalesReturnSuperStore/StoryUnderstandingReturnRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Video Overview: https://drive.google.com/file/d/1n9Nw600o00GFxdDsgetBtUaAtx9-Hdzx/view?usp=sharing
+
 
 # Data
 * 'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
